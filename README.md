@@ -16,4 +16,4 @@ This function will change the acls on the bub folders: enables inheritance, give
 
 ## DEMO
 
-![Demo](https://raw.githubusercontent.com/arsscriptum/PowerShell.Reddit.Support/main/Reset-Permissions/img/demo.gif)
+![Demo](https://github.com/arsscriptum/PowerShell.ResetFoldersPermissions/blob/main/img/demo.gif?raw=true)
