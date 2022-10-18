@@ -5,7 +5,7 @@
 Param (
     [parameter(Mandatory=$False, HelpMessage="This argument is for development purposes only. It help for testing.")]
     [switch]$TestMode
-    )
+)
 
 
 
